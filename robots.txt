@@ -1,1 +1,1 @@
-Sitemap: https://digma.github.io/myfastpages/sitemap.xml
+Sitemap: https://gael.io/blog/sitemap.xml
